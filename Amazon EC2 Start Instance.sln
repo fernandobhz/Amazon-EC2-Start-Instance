@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Basic Express 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Amazon EC2 Start Instance", "Amazon EC2 Start Instance\Amazon EC2 Start Instance.vbproj", "{FE98945D-F641-4956-AAF4-1D48F5B2D3F3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE98945D-F641-4956-AAF4-1D48F5B2D3F3}.Debug|x86.ActiveCfg = Release|x86
+		{FE98945D-F641-4956-AAF4-1D48F5B2D3F3}.Debug|x86.Build.0 = Release|x86
+		{FE98945D-F641-4956-AAF4-1D48F5B2D3F3}.Release|x86.ActiveCfg = Release|x86
+		{FE98945D-F641-4956-AAF4-1D48F5B2D3F3}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
